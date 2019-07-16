@@ -1,0 +1,37 @@
+html,body {
+  font-family: 'Raleway', sans-serif;
+  padding: 1em 2em;
+  font-size: 18px;
+  background: #222;
+  color: #aaa
+}
+
+h1,h2 {
+  font-weight: 200;
+  margin: 0.4em 0;
+}
+h1 { font-size: 3.5em; }
+h2 {
+  color: #888;
+  font-size: 2em;
+}
+
+  p {
+    padding: 6%;
+}
+.sc-ion-card-md-h {
+  margin-left: unset;
+  margin-right: unset;
+  -webkit-margin-start: 10px;
+  margin-inline-start: 10px;
+  -webkit-margin-end: 10px;
+  margin-inline-end: 10px;
+  border: ridge;
+  background: #faf7f7;
+  padding: 6%;
+}
+h6 {
+  font-size: 16px;
+  color: steelblue;
+}
+
